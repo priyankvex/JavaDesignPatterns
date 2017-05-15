@@ -1,3 +1,5 @@
+package strategypattern;
+
 /**
  * Created by priyankvex on 13/5/17.
  *
