@@ -1,4 +1,4 @@
-package SingletonPattern;
+package singletonpattern;
 
 import java.util.PriorityQueue;
 
